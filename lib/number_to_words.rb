@@ -1,3 +1,5 @@
+# encoding: UTF-8
+
 module NumberToWords
   module Numeric
     def self.included(recipient)
